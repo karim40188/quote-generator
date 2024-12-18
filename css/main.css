@@ -21,7 +21,7 @@ section .container {
 
 .quote-paper {
   width: 60%;
-  height: 350px;
+  height: auto;
   border-radius: 8px;
   padding: 20px;
   position: relative;
